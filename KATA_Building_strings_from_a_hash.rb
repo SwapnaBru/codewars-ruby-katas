@@ -1,6 +1,6 @@
 ## Crafted (c) 2013~2014 by ZoatWorks Software LTDA.
 ## Prepared   : Roberto Nogueira
-## File       : KATA_Building_strings_from_a_hash.rb
+## File       : kata_building_strings_from_a_hash.rb
 ## Version    : PA01
 ## Date       : 2014-08-30
 ## Project    : Codewars Katas
